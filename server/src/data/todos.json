@@ -1,0 +1,80 @@
+{
+  "lists": [
+    {
+      "id": "list1",
+      "listName": "집 리스트",
+      "tasks": [
+        {
+          "id": "task1",
+          "taskName": "오늘",
+          "items": [
+            {
+              "id": "item1",
+              "task": "청소하기",
+              "completed": false
+            },
+            {
+              "id": "item2",
+              "task": "밥하기",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "task2",
+          "taskName": "내일",
+          "items": [
+            {
+              "id": "item3",
+              "task": "정리하기",
+              "completed": false
+            },
+            {
+              "id": "item4",
+              "task": "공부하기",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "list2",
+      "listName": "학교 리스트",
+      "tasks": [
+        {
+          "id": "task3",
+          "taskName": "영어",
+          "items": [
+            {
+              "id": "item5",
+              "task": "수업 준비하기",
+              "completed": false
+            },
+            {
+              "id": "item6",
+              "task": "숙제 확인하기",
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "task4",
+          "taskName": "국어",
+          "items": [
+            {
+              "id": "item7",
+              "task": "시험 공부하기",
+              "completed": false
+            },
+            {
+              "id": "item8",
+              "task": "교재 정리하기",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
